@@ -1,3 +1,6 @@
+// solution to https://leetcode.com/problems/largest-divisible-subset
+// MEDIUM
+
 object LargestDivisibleSubset extends App {
 
   def largestDivisibleSubset(nums: Array[Int]): List[Int] = {
