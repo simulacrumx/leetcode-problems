@@ -1,3 +1,6 @@
+// solution to https://leetcode.com/problems/break-a-palindrome
+// MEDIUM
+
 object BreakPalindrome extends App {
 
   def breakPalindrome(palindrome: String): String = {
