@@ -1,6 +1,7 @@
 import scala.concurrent._
 import scala.util.Success
 import scala.util.Failure
+import java.util.concurrent.atomic.AtomicInteger
 
 object FutureTasks extends App {
 
